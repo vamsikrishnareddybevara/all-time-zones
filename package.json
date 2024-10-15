@@ -1,0 +1,9 @@
+{
+  "name": "all-timezones",
+  "version": "1.0.0",
+  "description": "All country timezones with short codes",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": ["timezones"],
+  "author": "Pawan Sargar"
+}
