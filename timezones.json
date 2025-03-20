@@ -936,8 +936,8 @@
     ]
   },
   {
-    "value": "Arabian Standard Time",
-    "abbr": "AST",
+    "value": "Gulf Standard Time",
+    "abbr": "GST",
     "offset": 4,
     "isdst": false,
     "text": "(UTC+04:00) Abu Dhabi, Muscat",
